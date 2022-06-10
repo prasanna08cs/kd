@@ -1,0 +1,29 @@
+2022-06-07T13:03:24.190Z [[31merror[39m] : Connection to  db failed {"service":"user-service"}
+2022-06-07T18:38:46.429Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T18:40:03.790Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T18:53:19.368Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T18:55:56.967Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T19:09:50.856Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T19:09:52.050Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T19:10:04.002Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T19:10:19.547Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-07T19:10:20.567Z [[31merror[39m] : limit is not defined {"service":"user-service"}
+2022-06-08T11:16:58.454Z [[31merror[39m] : Cannot read property 'length' of undefined {"service":"user-service"}
+2022-06-08T11:17:16.097Z [[31merror[39m] : Cannot read property 'length' of undefined {"service":"user-service"}
+2022-06-08T11:17:46.714Z [[31merror[39m] : name is not defined {"service":"user-service"}
+2022-06-08T11:21:15.756Z [[31merror[39m] : Cannot read property 'length' of undefined {"service":"user-service"}
+2022-06-08T11:21:34.247Z [[31merror[39m] : Cannot read property 'length' of undefined {"service":"user-service"}
+2022-06-08T11:24:18.729Z [[31merror[39m] : name is not defined {"service":"user-service"}
+2022-06-08T11:26:22.291Z [[31merror[39m] : Cannot read property 'element' of undefined {"service":"user-service"}
+2022-06-08T12:35:22.098Z [[31merror[39m] : Cannot read property 'toLocaleLowerCase' of undefined {"service":"user-service"}
+2022-06-08T16:44:23.186Z [[31merror[39m] : Assignment to constant variable. {"service":"user-service"}
+2022-06-08T16:44:41.660Z [[31merror[39m] : Assignment to constant variable. {"service":"user-service"}
+2022-06-08T16:45:00.996Z [[31merror[39m] : Assignment to constant variable. {"service":"user-service"}
+2022-06-08T17:00:06.223Z [[31merror[39m] : log is not a function {"service":"user-service"}
+2022-06-08T17:21:33.540Z [[31merror[39m] : Uncaught Exception thrown{"name":"AssertionError","message":"expected { Object (_events, _eventsCount, ...) } to have status code 400 but got 200","showDiff":true,"actual":200,"expected":400,"stack":"AssertionError: expected { Object (_events, _eventsCount, ...) } to have status code 400 but got 200\n    at /Users/prasanna.kg/Documents/nodejsapps/kd/test/test.js:24:29\n    at Test.Request.callback (/Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/index.js:716:12)\n    at /Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/index.js:916:18\n    at IncomingMessage.<anonymous> (/Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/parsers/json.js:19:7)\n    at IncomingMessage.emit (events.js:327:22)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)"} {"service":"user-service"}
+2022-06-08T17:22:15.573Z [[31merror[39m] : Uncaught Exception thrown{"name":"AssertionError","message":"expected { Object (_events, _eventsCount, ...) } to have status code 404 but got 200","showDiff":true,"actual":200,"expected":404,"stack":"AssertionError: expected { Object (_events, _eventsCount, ...) } to have status code 404 but got 200\n    at /Users/prasanna.kg/Documents/nodejsapps/kd/test/test.js:24:29\n    at Test.Request.callback (/Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/index.js:716:12)\n    at /Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/index.js:916:18\n    at IncomingMessage.<anonymous> (/Users/prasanna.kg/Documents/nodejsapps/kd/node_modules/superagent/lib/node/parsers/json.js:19:7)\n    at IncomingMessage.emit (events.js:327:22)\n    at endReadableNT (internal/streams/readable.js:1327:12)\n    at processTicksAndRejections (internal/process/task_queues.js:80:21)"} {"service":"user-service"}
+2022-06-09T05:41:03.341Z [[31merror[39m] : Cannot read property 'toLocaleLowerCase' of undefined {"service":"user-service"}
+2022-06-09T05:57:41.797Z [[31merror[39m] : Cannot read property 'length' of null {"service":"user-service"}
+2022-06-09T06:10:38.614Z [[31merror[39m] : /"/g is not a function {"service":"user-service"}
+2022-06-09T06:11:01.224Z [[31merror[39m] : Assignment to constant variable. {"service":"user-service"}
+2022-06-09T06:36:12.571Z [[31merror[39m] : object1 is not defined {"service":"user-service"}
